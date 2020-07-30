@@ -1,6 +1,6 @@
 # Market-Analysis
 
-![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuserscontent2.emaze.com%2Fimages%2F4a6e1c77-44db-4840-a3f3-44ea8de6777b%2F9b1baf9c106d5a0ebe1d5e769a7ff621.jpg&imgrefurl=https%3A%2F%2Fwww.emaze.com%2F%40AWTRRZRW&tbnid=m_y_9sewYtCAaM&vet=12ahUKEwjzt6iQ6_PqAhUPuqQKHeG2ASMQMyghegUIARCZAg..i&docid=Zie_0cLWmMCC4M&w=500&h=334&q=market%20analysis&ved=2ahUKEwjzt6iQ6_PqAhUPuqQKHeG2ASMQMyghegUIARCZAg)
+![Image] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fkbuntu%2Fkbuntu1208%2Fkbuntu120800032%2F14768879-magnified-illustration-with-the-word-market-analysis-on-white-background-.jpg&imgrefurl=https%3A%2F%2Fwww.123rf.com%2Fphoto_14768879_magnified-illustration-with-the-word-market-analysis-on-white-background-.html&tbnid=8lJWR4uetYabDM&vet=12ahUKEwiA56DU7fPqAhXKs6QKHQhHBxQQMygjegUIARCdAg..i&docid=aPwrmO-z1sl7HM&w=1300&h=975&q=market%20analysis&ved=2ahUKEwiA56DU7fPqAhXKs6QKHQhHBxQQMygjegUIARCdAg)
 
 Market analysis on an Online Retail shop dataset.
 
